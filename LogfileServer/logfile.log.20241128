@@ -1,0 +1,11 @@
+2024-11-28 11:45:13,284 - INFO : Server Init Successed.
+2024-11-28 11:45:13,301 - INFO : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8002
+ * Running on http://10.10.100.101:8002
+2024-11-28 11:45:13,301 - INFO : [33mPress CTRL+C to quit[0m
+2024-11-28 11:45:13,302 - INFO :  * Restarting with stat
+2024-11-28 11:45:13,456 - INFO : Server Init Successed.
+2024-11-28 11:45:13,463 - WARNING :  * Debugger is active!
+2024-11-28 11:45:13,542 - INFO :  * Debugger PIN: 362-728-754
+2024-11-28 11:46:08,153 - INFO : 127.0.0.1 - - [28/Nov/2024 11:46:08] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -

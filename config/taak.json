@@ -1,0 +1,59 @@
+{
+    "angle": 1.5622,
+    "area_ids": [],
+    "battery_level": 0.49,
+    "blocked": false,
+    "charging": false,
+    "confidence": 0.897,
+    "create_on": "2021-07-22T03:54:01.830Z",
+    "current_map": "AGF_Hamaden_1",
+    "current_station": "LM130",
+    "emergency": false,
+    "last_station": "",
+    "reloc_status": 1,
+    "ret_code": 0,
+    "target_dist": 0,
+    "target_id": "LM130",
+    "task_status": 4,
+    "unfinished_path": [],
+    "vx": 0,
+    "vy": 0,
+    "work_status": {
+        "agf_error": [],
+        "agf_id": 1,
+        "agf_idle": true,
+        "agf_work_mode": "Manual",
+        "lift_dir": "Stop",
+        "lift_pos": 1,
+        "mission_status": "Complete",
+        "notices": "AMR Busy",
+        "pallet": false,
+        "slider_dir": "stop",
+        "slider_speed": 0,
+        "task_current": {},
+        "task_list": [],
+        "task_index": 0,
+        "mission_recv": {
+            "task_list": [
+                {
+                    "task_name": "navigation",
+                    "target_point": "LM44"
+                },
+                {
+                    "task_name": "pick",
+                    "pick_point": "LM123",
+                    "detect_point": "LM124"
+                },
+                {
+                    "task_name": "put",
+                    "put_point": "LM125"
+                }
+            ],
+            "agf_id": 1,
+            "loop": true,
+            "work_mode": "Auto"
+        }
+    },
+    "x": -0.024,
+    "y": 0.7882
+}

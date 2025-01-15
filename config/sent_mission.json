@@ -1,0 +1,13 @@
+{
+    "mission_id": "asdasdas",
+    "task_list": [
+        {
+            "task_name": "wait",
+            "wait_time": 5
+        }
+    ],
+    "agf_id": 1,
+    "code": 1,
+    "number_of_times": 1,
+    "work_mode": "Auto"
+}

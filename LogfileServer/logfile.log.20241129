@@ -1,0 +1,121 @@
+2024-11-29 09:18:45,767 - INFO : Server Init Successed.
+2024-11-29 09:18:45,783 - INFO : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.68.134:5001
+2024-11-29 09:18:45,783 - INFO : [33mPress CTRL+C to quit[0m
+2024-11-29 09:18:45,784 - INFO :  * Restarting with stat
+2024-11-29 09:18:45,964 - INFO : Server Init Successed.
+2024-11-29 09:18:45,971 - WARNING :  * Debugger is active!
+2024-11-29 09:18:46,026 - INFO :  * Debugger PIN: 105-823-995
+2024-11-29 09:19:22,878 - INFO : 127.0.0.1 - - [29/Nov/2024 09:19:22] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 09:24:15,894 - INFO : 127.0.0.1 - - [29/Nov/2024 09:24:15] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 09:32:59,729 - INFO : 127.0.0.1 - - [29/Nov/2024 09:32:59] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 09:33:04,631 - INFO : 127.0.0.1 - - [29/Nov/2024 09:33:04] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 09:33:09,651 - INFO : 127.0.0.1 - - [29/Nov/2024 09:33:09] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 13:47:35,611 - INFO : Server Init Successed.
+2024-11-29 13:47:35,623 - INFO : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.68.134:5001
+2024-11-29 13:47:35,623 - INFO : [33mPress CTRL+C to quit[0m
+2024-11-29 13:47:35,623 - INFO :  * Restarting with stat
+2024-11-29 13:47:35,761 - INFO : Server Init Successed.
+2024-11-29 13:47:35,767 - WARNING :  * Debugger is active!
+2024-11-29 13:47:35,823 - INFO :  * Debugger PIN: 671-190-897
+2024-11-29 13:48:32,980 - INFO : 127.0.0.1 - - [29/Nov/2024 13:48:32] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 13:59:22,495 - INFO :  * Detected change in '/home/phamtoan/Documents/Python_Project/Hamaden_Andon_Server/main.py', reloading
+2024-11-29 13:59:22,881 - INFO :  * Restarting with stat
+2024-11-29 13:59:23,042 - INFO : Server Init Successed.
+2024-11-29 13:59:23,049 - WARNING :  * Debugger is active!
+2024-11-29 13:59:23,049 - INFO :  * Debugger PIN: 671-190-897
+2024-11-29 14:00:08,524 - INFO : Server Init Successed.
+2024-11-29 14:00:08,534 - INFO : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.68.134:5001
+2024-11-29 14:00:08,534 - INFO : [33mPress CTRL+C to quit[0m
+2024-11-29 14:00:08,534 - INFO :  * Restarting with stat
+2024-11-29 14:00:08,675 - INFO : Server Init Successed.
+2024-11-29 14:00:08,681 - WARNING :  * Debugger is active!
+2024-11-29 14:00:08,681 - INFO :  * Debugger PIN: 671-190-897
+2024-11-29 14:00:13,934 - INFO : 127.0.0.1 - - [29/Nov/2024 14:00:13] "[35m[1mPOST /mission HTTP/1.1[0m" 500 -
+2024-11-29 14:01:24,341 - INFO :  * Detected change in '/home/phamtoan/Documents/Python_Project/Hamaden_Andon_Server/main.py', reloading
+2024-11-29 14:01:24,811 - INFO :  * Restarting with stat
+2024-11-29 14:01:24,978 - INFO : Server Init Successed.
+2024-11-29 14:01:24,987 - WARNING :  * Debugger is active!
+2024-11-29 14:01:24,987 - INFO :  * Debugger PIN: 671-190-897
+2024-11-29 14:01:42,726 - INFO : 127.0.0.1 - - [29/Nov/2024 14:01:42] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 14:02:27,103 - INFO : 127.0.0.1 - - [29/Nov/2024 14:02:27] "[35m[1mPOST /mission HTTP/1.1[0m" 204 -
+2024-11-29 14:03:11,235 - INFO : 127.0.0.1 - - [29/Nov/2024 14:03:11] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 14:03:16,523 - INFO : 127.0.0.1 - - [29/Nov/2024 14:03:16] "[35m[1mPOST /mission HTTP/1.1[0m" 204 -
+2024-11-29 14:03:24,075 - INFO : 127.0.0.1 - - [29/Nov/2024 14:03:24] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 14:04:18,519 - INFO :  * Detected change in '/home/phamtoan/Documents/Python_Project/Hamaden_Andon_Server/main.py', reloading
+2024-11-29 14:04:18,711 - INFO :  * Restarting with stat
+2024-11-29 14:04:18,853 - INFO : Server Init Successed.
+2024-11-29 14:04:18,859 - WARNING :  * Debugger is active!
+2024-11-29 14:04:18,859 - INFO :  * Debugger PIN: 671-190-897
+2024-11-29 15:29:26,999 - INFO : 127.0.0.1 - - [29/Nov/2024 15:29:26] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 15:29:40,574 - INFO : 127.0.0.1 - - [29/Nov/2024 15:29:40] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 15:29:46,388 - INFO : 127.0.0.1 - - [29/Nov/2024 15:29:46] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 16:05:53,163 - INFO : 127.0.0.1 - - [29/Nov/2024 16:05:53] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 16:05:58,274 - INFO : 127.0.0.1 - - [29/Nov/2024 16:05:58] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 16:06:02,655 - INFO : 127.0.0.1 - - [29/Nov/2024 16:06:02] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 16:09:57,376 - INFO : 127.0.0.1 - - [29/Nov/2024 16:09:57] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 16:11:59,682 - INFO : 127.0.0.1 - - [29/Nov/2024 16:11:59] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 16:14:58,075 - INFO : 127.0.0.1 - - [29/Nov/2024 16:14:58] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 16:15:03,344 - INFO : 127.0.0.1 - - [29/Nov/2024 16:15:03] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 16:15:08,228 - INFO : 127.0.0.1 - - [29/Nov/2024 16:15:08] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 16:33:07,093 - INFO : Server Init Successed.
+2024-11-29 16:33:07,104 - INFO : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.68.134:5001
+2024-11-29 16:33:07,104 - INFO : [33mPress CTRL+C to quit[0m
+2024-11-29 16:33:07,104 - INFO :  * Restarting with stat
+2024-11-29 16:33:07,250 - INFO : Server Init Successed.
+2024-11-29 16:33:07,256 - WARNING :  * Debugger is active!
+2024-11-29 16:33:07,258 - INFO :  * Debugger PIN: 671-190-897
+2024-11-29 16:33:13,685 - INFO : 127.0.0.1 - - [29/Nov/2024 16:33:13] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 16:44:44,924 - INFO : 127.0.0.1 - - [29/Nov/2024 16:44:44] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 16:52:54,017 - INFO : Server Init Successed.
+2024-11-29 16:52:54,052 - INFO : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.68.134:5001
+2024-11-29 16:52:54,052 - INFO : [33mPress CTRL+C to quit[0m
+2024-11-29 16:52:54,052 - INFO :  * Restarting with stat
+2024-11-29 16:52:54,224 - INFO : Server Init Successed.
+2024-11-29 16:52:54,237 - WARNING :  * Debugger is active!
+2024-11-29 16:52:54,237 - INFO :  * Debugger PIN: 671-190-897
+2024-11-29 16:53:00,389 - INFO : 127.0.0.1 - - [29/Nov/2024 16:53:00] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 16:54:30,706 - INFO : 127.0.0.1 - - [29/Nov/2024 16:54:30] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 16:54:36,062 - INFO : 127.0.0.1 - - [29/Nov/2024 16:54:36] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 17:51:33,780 - INFO : 127.0.0.1 - - [29/Nov/2024 17:51:33] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 17:53:42,472 - INFO : 127.0.0.1 - - [29/Nov/2024 17:53:42] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 18:21:33,897 - INFO : 127.0.0.1 - - [29/Nov/2024 18:21:33] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 18:21:40,061 - INFO : 127.0.0.1 - - [29/Nov/2024 18:21:40] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 18:26:35,228 - INFO : 127.0.0.1 - - [29/Nov/2024 18:26:35] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 18:26:46,167 - INFO : 127.0.0.1 - - [29/Nov/2024 18:26:46] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 18:26:52,044 - INFO : 127.0.0.1 - - [29/Nov/2024 18:26:52] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 18:26:57,080 - INFO : 127.0.0.1 - - [29/Nov/2024 18:26:57] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 18:43:44,222 - INFO : 127.0.0.1 - - [29/Nov/2024 18:43:44] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 18:43:49,273 - INFO : 127.0.0.1 - - [29/Nov/2024 18:43:49] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 18:43:58,603 - INFO : 127.0.0.1 - - [29/Nov/2024 18:43:58] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 18:44:03,739 - INFO : 127.0.0.1 - - [29/Nov/2024 18:44:03] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 18:46:12,008 - INFO : 127.0.0.1 - - [29/Nov/2024 18:46:12] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 18:46:31,593 - INFO : 127.0.0.1 - - [29/Nov/2024 18:46:31] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 19:16:14,906 - INFO : 127.0.0.1 - - [29/Nov/2024 19:16:14] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 19:16:47,623 - INFO : 127.0.0.1 - - [29/Nov/2024 19:16:47] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 19:23:38,603 - INFO : 127.0.0.1 - - [29/Nov/2024 19:23:38] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 19:23:43,006 - INFO : 127.0.0.1 - - [29/Nov/2024 19:23:43] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 19:29:53,738 - INFO : 127.0.0.1 - - [29/Nov/2024 19:29:53] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 19:29:59,425 - INFO : 127.0.0.1 - - [29/Nov/2024 19:29:59] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 19:33:16,010 - INFO : 127.0.0.1 - - [29/Nov/2024 19:33:16] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 19:33:21,151 - INFO : 127.0.0.1 - - [29/Nov/2024 19:33:21] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 19:34:26,961 - INFO : 127.0.0.1 - - [29/Nov/2024 19:34:26] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 19:34:33,384 - INFO : 127.0.0.1 - - [29/Nov/2024 19:34:33] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 19:36:46,604 - INFO : 127.0.0.1 - - [29/Nov/2024 19:36:46] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 19:36:53,407 - INFO : 127.0.0.1 - - [29/Nov/2024 19:36:53] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 19:39:57,413 - INFO : 127.0.0.1 - - [29/Nov/2024 19:39:57] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -
+2024-11-29 19:40:30,098 - INFO : 127.0.0.1 - - [29/Nov/2024 19:40:30] "[35m[1mPOST /mission HTTP/1.1[0m" 201 -

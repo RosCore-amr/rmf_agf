@@ -1,0 +1,54 @@
+2024-11-30 13:46:59,546 - INFO : Server Init Successed.
+2024-11-30 13:46:59,560 - INFO : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.10.100.102:5001
+2024-11-30 13:46:59,560 - INFO : [33mPress CTRL+C to quit[0m
+2024-11-30 13:46:59,561 - INFO :  * Restarting with stat
+2024-11-30 13:46:59,722 - INFO : Server Init Successed.
+2024-11-30 13:46:59,731 - WARNING :  * Debugger is active!
+2024-11-30 13:46:59,790 - INFO :  * Debugger PIN: 988-625-166
+2024-11-30 13:47:24,385 - INFO : 127.0.0.1 - - [30/Nov/2024 13:47:24] "[35m[1mPOST /mission/auto HTTP/1.1[0m" 204 -
+2024-11-30 15:32:01,028 - INFO : Server Init Successed.
+2024-11-30 15:32:01,040 - INFO : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.10.100.102:5001
+2024-11-30 15:32:01,040 - INFO : [33mPress CTRL+C to quit[0m
+2024-11-30 15:32:01,041 - INFO :  * Restarting with stat
+2024-11-30 15:32:01,209 - INFO : Server Init Successed.
+2024-11-30 15:32:01,215 - WARNING :  * Debugger is active!
+2024-11-30 15:32:01,267 - INFO :  * Debugger PIN: 720-550-405
+2024-11-30 15:35:46,604 - INFO : 127.0.0.1 - - [30/Nov/2024 15:35:46] "[35m[1mPOST /mission/auto HTTP/1.1[0m" 201 -
+2024-11-30 15:36:23,896 - INFO : 127.0.0.1 - - [30/Nov/2024 15:36:23] "[35m[1mPOST /mission/manual HTTP/1.1[0m" 201 -
+2024-11-30 15:38:22,538 - INFO :  * Detected change in '/home/phamtoan/Documents/Python_Project/Hamaden_Andon_Server/main.py', reloading
+2024-11-30 15:38:22,723 - INFO :  * Restarting with stat
+2024-11-30 15:38:22,878 - INFO : Server Init Successed.
+2024-11-30 15:38:22,884 - WARNING :  * Debugger is active!
+2024-11-30 15:38:22,885 - INFO :  * Debugger PIN: 720-550-405
+2024-11-30 15:50:57,157 - INFO :  * Detected change in '/home/phamtoan/Documents/Python_Project/Hamaden_Andon_Server/main.py', reloading
+2024-11-30 15:50:57,566 - INFO :  * Restarting with stat
+2024-11-30 15:50:57,712 - INFO : Server Init Successed.
+2024-11-30 15:50:57,719 - WARNING :  * Debugger is active!
+2024-11-30 15:50:57,720 - INFO :  * Debugger PIN: 720-550-405
+2024-11-30 15:58:59,659 - INFO : Server Init Successed.
+2024-11-30 15:58:59,668 - INFO : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.10.100.102:5001
+2024-11-30 15:58:59,669 - INFO : [33mPress CTRL+C to quit[0m
+2024-11-30 15:58:59,669 - INFO :  * Restarting with stat
+2024-11-30 15:58:59,817 - INFO : Server Init Successed.
+2024-11-30 15:58:59,826 - WARNING :  * Debugger is active!
+2024-11-30 15:58:59,827 - INFO :  * Debugger PIN: 720-550-405
+2024-11-30 15:59:52,757 - INFO : 127.0.0.1 - - [30/Nov/2024 15:59:52] "[35m[1mPOST /mission/auto HTTP/1.1[0m" 201 -
+2024-11-30 16:02:29,880 - INFO : 127.0.0.1 - - [30/Nov/2024 16:02:29] "[35m[1mPOST /mission/auto HTTP/1.1[0m" 201 -
+2024-11-30 16:37:41,689 - INFO : 127.0.0.1 - - [30/Nov/2024 16:37:41] "[35m[1mPOST /mission/auto HTTP/1.1[0m" 201 -
+2024-11-30 18:05:53,786 - INFO : 127.0.0.1 - - [30/Nov/2024 18:05:53] "[35m[1mPOST /mission/auto HTTP/1.1[0m" 201 -
+2024-11-30 18:08:14,200 - INFO : 127.0.0.1 - - [30/Nov/2024 18:08:14] "[35m[1mPOST /mission/auto HTTP/1.1[0m" 201 -
+2024-11-30 18:08:35,915 - INFO : 127.0.0.1 - - [30/Nov/2024 18:08:35] "[35m[1mPOST /mission/manual HTTP/1.1[0m" 201 -
+2024-11-30 18:29:45,734 - INFO : 127.0.0.1 - - [30/Nov/2024 18:29:45] "[35m[1mPOST /mission/manual HTTP/1.1[0m" 201 -
+2024-11-30 18:36:48,918 - INFO : 127.0.0.1 - - [30/Nov/2024 18:36:48] "[35m[1mPOST /mission/manual HTTP/1.1[0m" 201 -
+2024-11-30 18:41:25,161 - INFO : 127.0.0.1 - - [30/Nov/2024 18:41:25] "[35m[1mPOST /mission/manual HTTP/1.1[0m" 201 -
+2024-11-30 18:42:39,558 - INFO : 127.0.0.1 - - [30/Nov/2024 18:42:39] "[35m[1mPOST /mission/auto HTTP/1.1[0m" 201 -
+2024-11-30 18:43:47,860 - INFO : 127.0.0.1 - - [30/Nov/2024 18:43:47] "[35m[1mPOST /mission/manual HTTP/1.1[0m" 201 -
