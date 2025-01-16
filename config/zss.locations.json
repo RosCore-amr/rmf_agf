@@ -1,0 +1,104 @@
+[{
+  "_id": {
+    "$oid": "677cfb1aab160b2653c28eda"
+  },
+  "location_code": "CTT",
+  "robot_point": "LM131",
+  "detect_point": "LM132"
+},
+{
+  "_id": {
+    "$oid": "677cfb34ab160b2653c28edb"
+  },
+  "location_code": "NHUA",
+  "robot_point": "LM128",
+  "detect_point": "LM137"
+},
+{
+  "_id": {
+    "$oid": "677cfb3dab160b2653c28edc"
+  },
+  "location_code": "TRA",
+  "robot_point": "LM15",
+  "detect_point": "LM14"
+},
+{
+  "_id": {
+    "$oid": "677cfb42ab160b2653c28edd"
+  },
+  "location_code": "NCS3",
+  "robot_point": "LM113",
+  "detect_point": "LM115"
+},
+{
+  "_id": {
+    "$oid": "677de8725f143fa5366b1fa7"
+  },
+  "location_code": "NCS3_01",
+  "robot_point": "LM114",
+  "detect_point": "LM116"
+},
+{
+  "_id": {
+    "$oid": "677de87b5f143fa5366b1fa8"
+  },
+  "location_code": "NCS4",
+  "robot_point": "LM141",
+  "detect_point": "LM140"
+},
+{
+  "_id": {
+    "$oid": "677de9f95f143fa5366b1fa9"
+  },
+  "location_code": "NCS4_01",
+  "robot_point": "LM127",
+  "detect_point": "LM139"
+},
+{
+  "_id": {
+    "$oid": "677de9fd5f143fa5366b1faa"
+  },
+  "location_code": "NCS7",
+  "robot_point": "LM125",
+  "detect_point": "LM126"
+},
+{
+  "_id": {
+    "$oid": "677dea035f143fa5366b1fab"
+  },
+  "location_code": "NCS7_01",
+  "robot_point": "LM124",
+  "detect_point": "LM106"
+},
+{
+  "_id": {
+    "$oid": "677deef85f143fa5366b1faf"
+  },
+  "location_code": "STANDING",
+  "robot_point": "LM19",
+  "detect_point": "LM000"
+},
+{
+  "_id": {
+    "$oid": "677f49ee34e30db0301b6d75"
+  },
+  "location_code": "TEST",
+  "robot_point": "LM142",
+  "detect_point": "LM143"
+},
+{
+  "_id": {
+    "$oid": "67823b0789252c9352827f01"
+  },
+  "location_code": "DC3-1",
+  "robot_point": "LM246",
+  "detect_point": "LM248"
+},
+{
+  "_id": {
+    "$oid": "67823b3289252c9352827f02"
+  },
+  "location_code": "DC3-1_01",
+  "robot_point": "LM244",
+  "detect_point": "LM245"
+}]

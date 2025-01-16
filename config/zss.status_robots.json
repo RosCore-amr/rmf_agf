@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$oid": "672d9c6d7f896dd157905e26"
+  },
+  "robot_code": "AGF_1",
+  "robot_type": "amr",
+  "ip_machine": "107.113.223.121",
+  "robot_connect": false,
+  "map_code": "pickup_locations",
+  "robot_status": "IDLE",
+  "battery": 0,
+  "robot_acs": 20,
+  "lastAT": {
+    "$date": "2024-11-09T14:40:51.347Z"
+  },
+  "status_list": {
+    "ip_machine": "107.113.223.121",
+    "robot_connect": false,
+    "username": "totalitarian_regime"
+  },
+  "angle": -0.7116,
+  "area_ids": [
+    "21"
+  ],
+  "battery_level": 0.89,
+  "blocked": false,
+  "charging": false,
+  "confidence": 0.9118,
+  "create_on": "2021-07-22T05:09:24.047Z",
+  "current_map": "AGF_Hamaden_8line",
+  "current_station": "LM257",
+  "emergency": false,
+  "last_station": "",
+  "mission_code": "1",
+  "reloc_status": 1,
+  "ret_code": 0,
+  "robot_mode": false,
+  "step_mission": 0,
+  "target_dist": 0,
+  "target_id": "LM256",
+  "task_status": 4,
+  "unfinished_path": [],
+  "vx": {
+    "$numberDouble": "-0.0"
+  },
+  "vy": {
+    "$numberDouble": "-0.0"
+  },
+  "x": 46.7786,
+  "y": -44.5873,
+  "error_msg": "",
+  "block_reason": 1,
+  "action_list": [],
+  "errors": [],
+  "action_error": false,
+  "action_name": "",
+  "leisure_time": "2024-11-08 11:25:16.584714",
+  "work_status": {
+    "agf_id": 1,
+    "agf_status": 1,
+    "agf_error": [],
+    "pallet": false,
+    "task_list": [],
+    "task_current": {},
+    "slider_speed": 0,
+    "slider_dir": "stop",
+    "lift_dir": "Stop",
+    "lift_pos": 1,
+    "agf_work_mode": "Manual",
+    "notices": "AMR Busy",
+    "mission_status": "Complete",
+    "mission_recv": null,
+    "task_index": null
+  }
+}]
